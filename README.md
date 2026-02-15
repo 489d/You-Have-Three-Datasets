@@ -22,7 +22,7 @@ In almost every real project, you are quietly working with **three datasets**:
 3. **Excluded**: what existed but you removed (filters, joins, deduping, eligibility rules)
 
 And here’s the uncomfortable truth:
-
+ 
 > Your conclusions are usually shaped more by **Missing** and **Excluded** than by what’s Observed.
 
 This article is a practical guide to recognizing the three datasets, measuring them, and preventing them from silently destroying your analysis.
